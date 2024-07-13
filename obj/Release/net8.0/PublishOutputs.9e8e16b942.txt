@@ -1,0 +1,7 @@
+/home/ubuntu/HelloWorldApp/out/HelloWorldApp
+/home/ubuntu/HelloWorldApp/out/appsettings.Development.json
+/home/ubuntu/HelloWorldApp/out/appsettings.json
+/home/ubuntu/HelloWorldApp/out/HelloWorldApp.dll
+/home/ubuntu/HelloWorldApp/out/HelloWorldApp.deps.json
+/home/ubuntu/HelloWorldApp/out/HelloWorldApp.runtimeconfig.json
+/home/ubuntu/HelloWorldApp/out/HelloWorldApp.pdb
